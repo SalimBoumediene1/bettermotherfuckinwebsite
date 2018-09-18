@@ -1,2 +1,2 @@
-# bettermotherfuckinwebsite
-my first github pages
+https://abouadamwawawa.github.io/bettermotherfuckinwebsite/
+
